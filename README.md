@@ -20,6 +20,9 @@ have fun! :octocat:
 -------------------------------------------------------------------------------
 
 Name: Jonathon Banh
+
 Status: Complete
+
 Compilation: gcc -0 piku piku.s
+
 Execution: ./piku
